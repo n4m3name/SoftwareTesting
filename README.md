@@ -1,3 +1,3 @@
 # SENG 275: Software Testing
 
-This repo contains notes, code, etc. completed for the software testing course at UVic.
+This repo contains notes, code, etc. for SENG275 - Software Testing at University of Victoria, Summer 2025
